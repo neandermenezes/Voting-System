@@ -14,14 +14,6 @@ O fluxo do sistema é definido seguindo três etapas principais que devem ser ex
 - A opção `ver resultado parcial` deve listar todos os nomes das pessoas candidatas, mostrando a quantidade de votos absolutos recebida por cada pessoa candidata e o percentual de votos entre elas. Depois de ver o resultado parcial, o menu deve voltar ao estado inicial, oferecendo as opções `votar`, `ver resultado parcial` e `finalizar a votação`.
 - A opção `finalizar a votação` deve mostrar o resultado da votação listando as pessoas candidatas, o número absoluto de votos por pessoa candidata e também o percentual dos votos totais que cada pessoa candidata recebeu. Com o fechamento do processo de votação, o programa deve ser finalizado.
 
-A imagem a seguir representa o fluxo do sistema de forma gráfica.
-
-![SistemaVotacaoFluxograma](img/sistema_votacao.png)
-
-
-A figura a seguir evidencia os laços de repetição:
-        
-![SistemaVotacaoFluxogramaDica](img/sistema_votacao_dica.png)
 
 
 ## Restrições
